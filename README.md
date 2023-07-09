@@ -15,3 +15,6 @@ This command initilize gitflow architecture and concept on the project and it en
 
 ### SCSS
 It used to make dynamic css due to our animation
+
+
+#### Solution link [https://ernest-nde.github.io/ohmyfood/] : `https://ernest-nde.github.io/ohmyfood/`
