@@ -22,4 +22,6 @@ First Release with all necessaries elements to initiate our project
 - SCSS `install` and `watch`,
 - GIT FLOW `install and runing`
 
+### Release `v0.0.2 : Home page Descktop version` : []
 #### Solution link [https://ernest-nde.github.io/ohmyfood/] : `https://ernest-nde.github.io/ohmyfood/`
+
