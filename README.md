@@ -16,5 +16,10 @@ This command initilize gitflow architecture and concept on the project and it en
 ### SCSS
 It used to make dynamic css due to our animation
 
+### Release `v0.0.1` : [https://github.com/ernest-nde/ohmyfood/releases/tag/ohmyfood_v0.0.1_hotfix]
+
+First Release with all necessaries elements to initiate our project
+- SCSS `install` and `watch`,
+- GIT FLOW `install and runing`
 
 #### Solution link [https://ernest-nde.github.io/ohmyfood/] : `https://ernest-nde.github.io/ohmyfood/`
